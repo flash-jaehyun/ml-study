@@ -1,3 +1,3 @@
 Jupyter Notebook files for "Self-study ML"
-Forked from @rickiepark 's repository
+- Forked from @rickiepark 's repository
 
